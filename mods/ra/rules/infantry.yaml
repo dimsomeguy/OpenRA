@@ -308,7 +308,7 @@ MEDI:
 	Valued:
 		Cost: 200
 	Tooltip:
-		Name: Medic
+		Name: Field Medic
 	Health:
 		HP: 80
 	RevealsShroud:
