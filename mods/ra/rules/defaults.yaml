@@ -331,7 +331,7 @@
 		Types: Ship
 	GivesBounty:
 	Chronoshiftable:
-	RepairableNear:
+	Repairable:
 	GpsDot:
 		String: Ship
 	WithDamageOverlay:
