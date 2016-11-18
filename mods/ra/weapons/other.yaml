@@ -201,6 +201,7 @@ Heal:
 	Report: heal2.aud
 	ValidTargets: Infantry
 	Projectile: Bullet
+	TargetStances: Ally
 		Speed: 1c682
 	Warhead@1Dam: SpreadDamage
 		Spread: 213
