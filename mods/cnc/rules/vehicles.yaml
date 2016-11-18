@@ -422,7 +422,7 @@ MSAM:
 	Valued:
 		Cost: 1000
 	Tooltip:
-		Name: Rocket Launcher
+		Name: MLRS
 	Buildable:
 		BuildPaletteOrder: 50
 		Prerequisites: anyhq, ~techlevel.medium
@@ -458,7 +458,7 @@ MLRS:
 	Valued:
 		Cost: 600
 	Tooltip:
-		Name: Mobile S.A.M.
+		Name: Mobile SAM
 	Buildable:
 		BuildPaletteOrder: 70
 		Prerequisites: anyhq, ~techlevel.medium
