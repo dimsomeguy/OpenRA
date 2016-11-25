@@ -156,6 +156,9 @@ E4:
 	Armament@GARRISONED:
 		Name: garrisoned
 		Weapon: Flamer
+	Explodes:
+		Weapon: UnitExplodeSmall
+		Chance: 50
 	AttackFrontal:
 	WithInfantryBody:
 		DefaultAttackSequence: shoot
