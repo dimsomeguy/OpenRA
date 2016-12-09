@@ -65,6 +65,13 @@ TECN:
 	RenderSprites:
 		Image: C1
 
+FRM:
+	Inherits@1: ^CivInfantry
+	Tooltip:
+		Name: Farmer
+	RenderSprites:
+		Image: C1
+
 FCOM:
 	Inherits: ^TechBuilding
 	Building:
